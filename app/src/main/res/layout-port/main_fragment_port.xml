@@ -10,7 +10,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_gravity="center"
-        android:text="Portrait"
+        android:text="@string/texto_port"
         android:textSize="@dimen/size_text"
         android:gravity="center_vertical|center_horizontal"/>
 
